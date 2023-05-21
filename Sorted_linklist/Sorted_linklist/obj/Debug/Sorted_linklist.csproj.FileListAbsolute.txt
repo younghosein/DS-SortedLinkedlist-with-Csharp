@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\bin\Debug\Sorted_linklist.exe.config
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\bin\Debug\Sorted_linklist.exe
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\bin\Debug\Sorted_linklist.pdb
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\obj\Debug\Sorted_linklist.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\obj\Debug\Sorted_linklist.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\obj\Debug\Sorted_linklist.exe
+C:\Users\RayanGate\source\repos\Sorted_linklist\Sorted_linklist\obj\Debug\Sorted_linklist.pdb
